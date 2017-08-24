@@ -3,7 +3,7 @@
 //  Test
 //
 //  Created by 周贺伟 on 2017/8/3.
-//  Copyright © 2017年 fxiaoke. All rights reserved.
+//  Copyright © 2017年 zhouhewei. All rights reserved.
 //
 
 #ifndef IMemoryMapFile_h
